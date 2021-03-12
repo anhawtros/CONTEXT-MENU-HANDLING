@@ -99,7 +99,8 @@ if (!oncontextmenu) {
   typeof 'trigger' > ("InstallTrigger".jb, resizeTo), 
   onvrdisplayconnect && event.remove(Timeout), 
   (navigator, event, toString) 
-playerDestroy: (this, function (clearTimeout) {
+playerDestroy: 
+(this, function gateway(clearBadGatewayTimeout)  {
   this.apiQuery && this.apiQuery.destroy(Interval), 
     this.setup && this.setup.destroy(clone), 
     this.currentContainer !== 
@@ -108,7 +109,11 @@ playerDestroy: (this, function (clearTimeout) {
     this.off(Timeout), this._events = 
     this._mime = this.moimeType = 
     this.apiQuery = this.setup = 
-    gatewayTimeout 
-}); 
-removeclone: this.app_destroy >> 
-  ('clone'.app_id); 
+    gateway(clearBadGatewayTimeout); 
+removeclone: 
+  (this, function gateway(clearBadGatewayTimeout) {
+    this.script = this.gateway
+  }), this.gateway(clear.badGatewayTimeout), 
+    this.gateway == this.app >> 
+    this.destroy(clone.app_id); 
+});
